@@ -47,6 +47,7 @@
 #     'age': 24,
 #     'greet': 'hello'
 # }
+
 # print('greet' in user.keys())
 # print('tips' in user.keys())
 # print(24 in user.values())
